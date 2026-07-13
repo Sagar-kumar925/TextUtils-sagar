@@ -1,0 +1,6 @@
+{
+  "name": "TextUtils Pro",
+  "description": "A premium, fully-featured online text analyzer, converter, and manipulation utility with speech integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
